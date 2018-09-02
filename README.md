@@ -12,7 +12,7 @@ This is my initial studies in GraphQL with Ruby on Rails. Based on the course of
    - ~~Accessibility~~
    - ~~Authorisation~~
  
- ##Install
+ ## Install
 You can install a local instance of the RubyGraphQL api by running the following code:
 
  ```sh

@@ -90,7 +90,7 @@ rails s
       "city": "Ziemannstad",
       "postcode": "02303",
       "country": "Guinea",
-      "role": "member"
+      "role": "member",
       "posts": [
         {
           "body": "Por outro lado, o início do programa de formação de atitudes acarreta um processo de reformulação das nossas metas financeiras e administrativas. É fundamental ressaltar que a análise dos diversos resultados exige precisão e definição das nossas metas financeiras e administrativas. Nunca é demais insistir que a constante divulgação das informações prejudica a percepção da importância das atitudes e das atribuições da diretoria.",
